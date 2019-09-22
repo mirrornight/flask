@@ -1,2 +1,5 @@
 .idea
 *.pyc
+logs
+app/app.db
+Dockerfile
