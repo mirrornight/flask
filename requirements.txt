@@ -20,7 +20,7 @@ jinja2==2.10.1
 jsonschema==3.0.1
 mako==1.0.12
 markupsafe==1.1.1
-pyjwt==1.7.1
+pyjwt==2.4.0
 pyrsistent==0.15.2
 python-dateutil==2.8.0
 python-dotenv==0.10.3
